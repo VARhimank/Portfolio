@@ -277,3 +277,19 @@ header {
   list-style-type: none;
   text-align: right;
 }
+
+@media (max width: 670px) {
+
+  
+  .project {
+    height: 800px;
+  }
+  
+  .about {
+    height: 700px;
+  }
+  
+  .socials {
+    height: 800px;
+  }
+}
